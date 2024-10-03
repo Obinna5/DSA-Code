@@ -1,4 +1,4 @@
-package datastructures.Cookie;
+package datastructures.Example.Cookie;
 
 public class Main {
 

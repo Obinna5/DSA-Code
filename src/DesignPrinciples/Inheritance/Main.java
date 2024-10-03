@@ -9,7 +9,7 @@ public class Main {
 
       g.setModel("Les Paul");
 
-        System.out.println("Fender class EXTENDS the Gibson class with the getColor() function --> " +f.getColor());
+        System.out.println("Fender class EXTENDS the Gibson class with the getColor() function --> " +g.getColor());
 
     }
 
