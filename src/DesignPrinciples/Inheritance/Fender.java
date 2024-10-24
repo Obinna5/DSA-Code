@@ -1,4 +1,5 @@
 package DesignPrinciples.Inheritance;
+//import DesignPrinciples.Inheritance.Gibson;
 
 public class Fender extends Gibson {
 

@@ -1,6 +1,8 @@
 package codingexercises;
 
-public class reverseString {
+import codingexercises.Arithmetic;
+
+public class reverseString extends Arithmetic{
 
     String str;
 
@@ -18,6 +20,10 @@ public class reverseString {
        return newStr;
     }
 
+    public void addition(){
+        int result = add(5,5);
+        System.out.println(result);
+    }
 }
 
 /*
